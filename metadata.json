@@ -1,0 +1,6 @@
+{
+  "name": "Baby Bloom 派对定制",
+  "description": "Baby Bloom 专业派对策划与场景美学布置，提供 3D 梦幻气球、法式蛋糕台、主题背板与全案定制，全面自适应手机端与桌面端。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
